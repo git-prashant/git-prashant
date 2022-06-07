@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @git-prashant
+- 👋 Hi, I’m @Prashant Gaikwad
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning .NET CORE 6 with ReactJs
 - 💞️ I’m looking to collaborate on Web development
